@@ -1,4 +1,4 @@
-package com.acgame.gameaccountmarket
+package com.car.market
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
